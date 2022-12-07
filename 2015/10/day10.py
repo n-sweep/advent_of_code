@@ -2,33 +2,30 @@
 # Advent of Code 2015 Day 10
 # https://adventofcode.com/2015/day/10
 
+import re
 import sys
 
-sys.setrecursionlimit(10000)
 
-inp = '1113222113'
+def parse(inp):
+    parsed = re.findall(r'((.)\2*)', inp)
+    return ''.join([str(len(x)) + y for x, y in parsed])
 
-def count(n):
-    c = 0
-    s = list(str(n))
-    output = ''
-    while s:
-        c += 1
-        p = s.pop(0)
-        if not s or p != s[0]:
-            output += f'{c}{p}'
 
-    return output
+def iterate(i):
+    inp = '1113222113'
 
-def part_1(i):
-    for c in range(40):
-        i0 = len(i)
-        i = count(i)
-        i1 = len(i)
-        d = i1 - i0
-        print(f'{c} {i0} + {d}')
-    return i
+    for _ in range(i):
+        inp = parse(inp)
+
+    return len(inp)
+
+
+def main():
+    part_1 = iterate(40)
+    part_2 = iterate(50)
+
+    print(part_2)
+
 
 if __name__ == '__main__':
-    p = part_1(inp)
-    print(p)
+    main()
