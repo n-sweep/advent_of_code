@@ -1,0 +1,1253 @@
+
+INFO:root:Round 1
+INFO:root:Moneky 0: inspect an item with a worry level of 79
+INFO:root:Moneky 0: apply operation (79 * 19) // 3
+INFO:root:Moneky 0: worry level is not divisible by 23
+INFO:root:Moneky 0: Item with worry level 500 thrown to Monkey 3
+INFO:root:Moneky 0: inspect an item with a worry level of 98
+INFO:root:Moneky 0: apply operation (98 * 19) // 3
+INFO:root:Moneky 0: worry level is not divisible by 23
+INFO:root:Moneky 0: Item with worry level 620 thrown to Monkey 3
+INFO:root:Moneky 1: inspect an item with a worry level of 54
+INFO:root:Moneky 1: apply operation (54 + 6) // 3
+INFO:root:Moneky 1: worry level is not divisible by 19
+INFO:root:Moneky 1: Item with worry level 20 thrown to Monkey 0
+INFO:root:Moneky 1: inspect an item with a worry level of 65
+INFO:root:Moneky 1: apply operation (65 + 6) // 3
+INFO:root:Moneky 1: worry level is not divisible by 19
+INFO:root:Moneky 1: Item with worry level 23 thrown to Monkey 0
+INFO:root:Moneky 1: inspect an item with a worry level of 75
+INFO:root:Moneky 1: apply operation (75 + 6) // 3
+INFO:root:Moneky 1: worry level is not divisible by 19
+INFO:root:Moneky 1: Item with worry level 27 thrown to Monkey 0
+INFO:root:Moneky 1: inspect an item with a worry level of 74
+INFO:root:Moneky 1: apply operation (74 + 6) // 3
+INFO:root:Moneky 1: worry level is not divisible by 19
+INFO:root:Moneky 1: Item with worry level 26 thrown to Monkey 0
+INFO:root:Moneky 2: inspect an item with a worry level of 79
+INFO:root:Moneky 2: apply operation (79 * 79) // 3
+INFO:root:Moneky 2: worry level is divisible by 13
+INFO:root:Moneky 2: Item with worry level 2080 thrown to Monkey 1
+INFO:root:Moneky 2: inspect an item with a worry level of 60
+INFO:root:Moneky 2: apply operation (60 * 60) // 3
+INFO:root:Moneky 2: worry level is not divisible by 13
+INFO:root:Moneky 2: Item with worry level 1200 thrown to Monkey 3
+INFO:root:Moneky 2: inspect an item with a worry level of 97
+INFO:root:Moneky 2: apply operation (97 * 97) // 3
+INFO:root:Moneky 2: worry level is not divisible by 13
+INFO:root:Moneky 2: Item with worry level 3136 thrown to Monkey 3
+INFO:root:Moneky 3: inspect an item with a worry level of 74
+INFO:root:Moneky 3: apply operation (74 + 3) // 3
+INFO:root:Moneky 3: worry level is not divisible by 17
+INFO:root:Moneky 3: Item with worry level 25 thrown to Monkey 1
+INFO:root:Moneky 3: inspect an item with a worry level of 500
+INFO:root:Moneky 3: apply operation (500 + 3) // 3
+INFO:root:Moneky 3: worry level is not divisible by 17
+INFO:root:Moneky 3: Item with worry level 167 thrown to Monkey 1
+INFO:root:Moneky 3: inspect an item with a worry level of 620
+INFO:root:Moneky 3: apply operation (620 + 3) // 3
+INFO:root:Moneky 3: worry level is not divisible by 17
+INFO:root:Moneky 3: Item with worry level 207 thrown to Monkey 1
+INFO:root:Moneky 3: inspect an item with a worry level of 1200
+INFO:root:Moneky 3: apply operation (1200 + 3) // 3
+INFO:root:Moneky 3: worry level is not divisible by 17
+INFO:root:Moneky 3: Item with worry level 401 thrown to Monkey 1
+INFO:root:Moneky 3: inspect an item with a worry level of 3136
+INFO:root:Moneky 3: apply operation (3136 + 3) // 3
+INFO:root:Moneky 3: worry level is not divisible by 17
+INFO:root:Moneky 3: Item with worry level 1046 thrown to Monkey 1
+INFO:root:Round 2
+INFO:root:Moneky 0: inspect an item with a worry level of 20
+INFO:root:Moneky 0: apply operation (20 * 19) // 3
+INFO:root:Moneky 0: worry level is not divisible by 23
+INFO:root:Moneky 0: Item with worry level 126 thrown to Monkey 3
+INFO:root:Moneky 0: inspect an item with a worry level of 23
+INFO:root:Moneky 0: apply operation (23 * 19) // 3
+INFO:root:Moneky 0: worry level is not divisible by 23
+INFO:root:Moneky 0: Item with worry level 145 thrown to Monkey 3
+INFO:root:Moneky 0: inspect an item with a worry level of 27
+INFO:root:Moneky 0: apply operation (27 * 19) // 3
+INFO:root:Moneky 0: worry level is not divisible by 23
+INFO:root:Moneky 0: Item with worry level 171 thrown to Monkey 3
+INFO:root:Moneky 0: inspect an item with a worry level of 26
+INFO:root:Moneky 0: apply operation (26 * 19) // 3
+INFO:root:Moneky 0: worry level is not divisible by 23
+INFO:root:Moneky 0: Item with worry level 164 thrown to Monkey 3
+INFO:root:Moneky 1: inspect an item with a worry level of 2080
+INFO:root:Moneky 1: apply operation (2080 + 6) // 3
+INFO:root:Moneky 1: worry level is not divisible by 19
+INFO:root:Moneky 1: Item with worry level 695 thrown to Monkey 0
+INFO:root:Moneky 1: inspect an item with a worry level of 25
+INFO:root:Moneky 1: apply operation (25 + 6) // 3
+INFO:root:Moneky 1: worry level is not divisible by 19
+INFO:root:Moneky 1: Item with worry level 10 thrown to Monkey 0
+INFO:root:Moneky 1: inspect an item with a worry level of 167
+INFO:root:Moneky 1: apply operation (167 + 6) // 3
+INFO:root:Moneky 1: worry level is divisible by 19
+INFO:root:Moneky 1: Item with worry level 57 thrown to Monkey 2
+INFO:root:Moneky 1: inspect an item with a worry level of 207
+INFO:root:Moneky 1: apply operation (207 + 6) // 3
+INFO:root:Moneky 1: worry level is not divisible by 19
+INFO:root:Moneky 1: Item with worry level 71 thrown to Monkey 0
+INFO:root:Moneky 1: inspect an item with a worry level of 401
+INFO:root:Moneky 1: apply operation (401 + 6) // 3
+INFO:root:Moneky 1: worry level is not divisible by 19
+INFO:root:Moneky 1: Item with worry level 135 thrown to Monkey 0
+INFO:root:Moneky 1: inspect an item with a worry level of 1046
+INFO:root:Moneky 1: apply operation (1046 + 6) // 3
+INFO:root:Moneky 1: worry level is not divisible by 19
+INFO:root:Moneky 1: Item with worry level 350 thrown to Monkey 0
+INFO:root:Moneky 2: inspect an item with a worry level of 57
+INFO:root:Moneky 2: apply operation (57 * 57) // 3
+INFO:root:Moneky 2: worry level is not divisible by 13
+INFO:root:Moneky 2: Item with worry level 1083 thrown to Monkey 3
+INFO:root:Moneky 3: inspect an item with a worry level of 126
+INFO:root:Moneky 3: apply operation (126 + 3) // 3
+INFO:root:Moneky 3: worry level is not divisible by 17
+INFO:root:Moneky 3: Item with worry level 43 thrown to Monkey 1
+INFO:root:Moneky 3: inspect an item with a worry level of 145
+INFO:root:Moneky 3: apply operation (145 + 3) // 3
+INFO:root:Moneky 3: worry level is not divisible by 17
+INFO:root:Moneky 3: Item with worry level 49 thrown to Monkey 1
+INFO:root:Moneky 3: inspect an item with a worry level of 171
+INFO:root:Moneky 3: apply operation (171 + 3) // 3
+INFO:root:Moneky 3: worry level is not divisible by 17
+INFO:root:Moneky 3: Item with worry level 58 thrown to Monkey 1
+INFO:root:Moneky 3: inspect an item with a worry level of 164
+INFO:root:Moneky 3: apply operation (164 + 3) // 3
+INFO:root:Moneky 3: worry level is not divisible by 17
+INFO:root:Moneky 3: Item with worry level 55 thrown to Monkey 1
+INFO:root:Moneky 3: inspect an item with a worry level of 1083
+INFO:root:Moneky 3: apply operation (1083 + 3) // 3
+INFO:root:Moneky 3: worry level is not divisible by 17
+INFO:root:Moneky 3: Item with worry level 362 thrown to Monkey 1
+INFO:root:Round 3
+INFO:root:Moneky 0: inspect an item with a worry level of 695
+INFO:root:Moneky 0: apply operation (695 * 19) // 3
+INFO:root:Moneky 0: worry level is not divisible by 23
+INFO:root:Moneky 0: Item with worry level 4401 thrown to Monkey 3
+INFO:root:Moneky 0: inspect an item with a worry level of 10
+INFO:root:Moneky 0: apply operation (10 * 19) // 3
+INFO:root:Moneky 0: worry level is not divisible by 23
+INFO:root:Moneky 0: Item with worry level 63 thrown to Monkey 3
+INFO:root:Moneky 0: inspect an item with a worry level of 71
+INFO:root:Moneky 0: apply operation (71 * 19) // 3
+INFO:root:Moneky 0: worry level is not divisible by 23
+INFO:root:Moneky 0: Item with worry level 449 thrown to Monkey 3
+INFO:root:Moneky 0: inspect an item with a worry level of 135
+INFO:root:Moneky 0: apply operation (135 * 19) // 3
+INFO:root:Moneky 0: worry level is not divisible by 23
+INFO:root:Moneky 0: Item with worry level 855 thrown to Monkey 3
+INFO:root:Moneky 0: inspect an item with a worry level of 350
+INFO:root:Moneky 0: apply operation (350 * 19) // 3
+INFO:root:Moneky 0: worry level is not divisible by 23
+INFO:root:Moneky 0: Item with worry level 2216 thrown to Monkey 3
+INFO:root:Moneky 1: inspect an item with a worry level of 43
+INFO:root:Moneky 1: apply operation (43 + 6) // 3
+INFO:root:Moneky 1: worry level is not divisible by 19
+INFO:root:Moneky 1: Item with worry level 16 thrown to Monkey 0
+INFO:root:Moneky 1: inspect an item with a worry level of 49
+INFO:root:Moneky 1: apply operation (49 + 6) // 3
+INFO:root:Moneky 1: worry level is not divisible by 19
+INFO:root:Moneky 1: Item with worry level 18 thrown to Monkey 0
+INFO:root:Moneky 1: inspect an item with a worry level of 58
+INFO:root:Moneky 1: apply operation (58 + 6) // 3
+INFO:root:Moneky 1: worry level is not divisible by 19
+INFO:root:Moneky 1: Item with worry level 21 thrown to Monkey 0
+INFO:root:Moneky 1: inspect an item with a worry level of 55
+INFO:root:Moneky 1: apply operation (55 + 6) // 3
+INFO:root:Moneky 1: worry level is not divisible by 19
+INFO:root:Moneky 1: Item with worry level 20 thrown to Monkey 0
+INFO:root:Moneky 1: inspect an item with a worry level of 362
+INFO:root:Moneky 1: apply operation (362 + 6) // 3
+INFO:root:Moneky 1: worry level is not divisible by 19
+INFO:root:Moneky 1: Item with worry level 122 thrown to Monkey 0
+INFO:root:Moneky 3: inspect an item with a worry level of 4401
+INFO:root:Moneky 3: apply operation (4401 + 3) // 3
+INFO:root:Moneky 3: worry level is not divisible by 17
+INFO:root:Moneky 3: Item with worry level 1468 thrown to Monkey 1
+INFO:root:Moneky 3: inspect an item with a worry level of 63
+INFO:root:Moneky 3: apply operation (63 + 3) // 3
+INFO:root:Moneky 3: worry level is not divisible by 17
+INFO:root:Moneky 3: Item with worry level 22 thrown to Monkey 1
+INFO:root:Moneky 3: inspect an item with a worry level of 449
+INFO:root:Moneky 3: apply operation (449 + 3) // 3
+INFO:root:Moneky 3: worry level is not divisible by 17
+INFO:root:Moneky 3: Item with worry level 150 thrown to Monkey 1
+INFO:root:Moneky 3: inspect an item with a worry level of 855
+INFO:root:Moneky 3: apply operation (855 + 3) // 3
+INFO:root:Moneky 3: worry level is not divisible by 17
+INFO:root:Moneky 3: Item with worry level 286 thrown to Monkey 1
+INFO:root:Moneky 3: inspect an item with a worry level of 2216
+INFO:root:Moneky 3: apply operation (2216 + 3) // 3
+INFO:root:Moneky 3: worry level is not divisible by 17
+INFO:root:Moneky 3: Item with worry level 739 thrown to Monkey 1
+INFO:root:Round 4
+INFO:root:Moneky 0: inspect an item with a worry level of 16
+INFO:root:Moneky 0: apply operation (16 * 19) // 3
+INFO:root:Moneky 0: worry level is not divisible by 23
+INFO:root:Moneky 0: Item with worry level 101 thrown to Monkey 3
+INFO:root:Moneky 0: inspect an item with a worry level of 18
+INFO:root:Moneky 0: apply operation (18 * 19) // 3
+INFO:root:Moneky 0: worry level is not divisible by 23
+INFO:root:Moneky 0: Item with worry level 114 thrown to Monkey 3
+INFO:root:Moneky 0: inspect an item with a worry level of 21
+INFO:root:Moneky 0: apply operation (21 * 19) // 3
+INFO:root:Moneky 0: worry level is not divisible by 23
+INFO:root:Moneky 0: Item with worry level 133 thrown to Monkey 3
+INFO:root:Moneky 0: inspect an item with a worry level of 20
+INFO:root:Moneky 0: apply operation (20 * 19) // 3
+INFO:root:Moneky 0: worry level is not divisible by 23
+INFO:root:Moneky 0: Item with worry level 126 thrown to Monkey 3
+INFO:root:Moneky 0: inspect an item with a worry level of 122
+INFO:root:Moneky 0: apply operation (122 * 19) // 3
+INFO:root:Moneky 0: worry level is not divisible by 23
+INFO:root:Moneky 0: Item with worry level 772 thrown to Monkey 3
+INFO:root:Moneky 1: inspect an item with a worry level of 1468
+INFO:root:Moneky 1: apply operation (1468 + 6) // 3
+INFO:root:Moneky 1: worry level is not divisible by 19
+INFO:root:Moneky 1: Item with worry level 491 thrown to Monkey 0
+INFO:root:Moneky 1: inspect an item with a worry level of 22
+INFO:root:Moneky 1: apply operation (22 + 6) // 3
+INFO:root:Moneky 1: worry level is not divisible by 19
+INFO:root:Moneky 1: Item with worry level 9 thrown to Monkey 0
+INFO:root:Moneky 1: inspect an item with a worry level of 150
+INFO:root:Moneky 1: apply operation (150 + 6) // 3
+INFO:root:Moneky 1: worry level is not divisible by 19
+INFO:root:Moneky 1: Item with worry level 52 thrown to Monkey 0
+INFO:root:Moneky 1: inspect an item with a worry level of 286
+INFO:root:Moneky 1: apply operation (286 + 6) // 3
+INFO:root:Moneky 1: worry level is not divisible by 19
+INFO:root:Moneky 1: Item with worry level 97 thrown to Monkey 0
+INFO:root:Moneky 1: inspect an item with a worry level of 739
+INFO:root:Moneky 1: apply operation (739 + 6) // 3
+INFO:root:Moneky 1: worry level is not divisible by 19
+INFO:root:Moneky 1: Item with worry level 248 thrown to Monkey 0
+INFO:root:Moneky 3: inspect an item with a worry level of 101
+INFO:root:Moneky 3: apply operation (101 + 3) // 3
+INFO:root:Moneky 3: worry level is divisible by 17
+INFO:root:Moneky 3: Item with worry level 34 thrown to Monkey 0
+INFO:root:Moneky 3: inspect an item with a worry level of 114
+INFO:root:Moneky 3: apply operation (114 + 3) // 3
+INFO:root:Moneky 3: worry level is not divisible by 17
+INFO:root:Moneky 3: Item with worry level 39 thrown to Monkey 1
+INFO:root:Moneky 3: inspect an item with a worry level of 133
+INFO:root:Moneky 3: apply operation (133 + 3) // 3
+INFO:root:Moneky 3: worry level is not divisible by 17
+INFO:root:Moneky 3: Item with worry level 45 thrown to Monkey 1
+INFO:root:Moneky 3: inspect an item with a worry level of 126
+INFO:root:Moneky 3: apply operation (126 + 3) // 3
+INFO:root:Moneky 3: worry level is not divisible by 17
+INFO:root:Moneky 3: Item with worry level 43 thrown to Monkey 1
+INFO:root:Moneky 3: inspect an item with a worry level of 772
+INFO:root:Moneky 3: apply operation (772 + 3) // 3
+INFO:root:Moneky 3: worry level is not divisible by 17
+INFO:root:Moneky 3: Item with worry level 258 thrown to Monkey 1
+INFO:root:Round 5
+INFO:root:Moneky 0: inspect an item with a worry level of 491
+INFO:root:Moneky 0: apply operation (491 * 19) // 3
+INFO:root:Moneky 0: worry level is not divisible by 23
+INFO:root:Moneky 0: Item with worry level 3109 thrown to Monkey 3
+INFO:root:Moneky 0: inspect an item with a worry level of 9
+INFO:root:Moneky 0: apply operation (9 * 19) // 3
+INFO:root:Moneky 0: worry level is not divisible by 23
+INFO:root:Moneky 0: Item with worry level 57 thrown to Monkey 3
+INFO:root:Moneky 0: inspect an item with a worry level of 52
+INFO:root:Moneky 0: apply operation (52 * 19) // 3
+INFO:root:Moneky 0: worry level is not divisible by 23
+INFO:root:Moneky 0: Item with worry level 329 thrown to Monkey 3
+INFO:root:Moneky 0: inspect an item with a worry level of 97
+INFO:root:Moneky 0: apply operation (97 * 19) // 3
+INFO:root:Moneky 0: worry level is not divisible by 23
+INFO:root:Moneky 0: Item with worry level 614 thrown to Monkey 3
+INFO:root:Moneky 0: inspect an item with a worry level of 248
+INFO:root:Moneky 0: apply operation (248 * 19) // 3
+INFO:root:Moneky 0: worry level is not divisible by 23
+INFO:root:Moneky 0: Item with worry level 1570 thrown to Monkey 3
+INFO:root:Moneky 0: inspect an item with a worry level of 34
+INFO:root:Moneky 0: apply operation (34 * 19) // 3
+INFO:root:Moneky 0: worry level is not divisible by 23
+INFO:root:Moneky 0: Item with worry level 215 thrown to Monkey 3
+INFO:root:Moneky 1: inspect an item with a worry level of 39
+INFO:root:Moneky 1: apply operation (39 + 6) // 3
+INFO:root:Moneky 1: worry level is not divisible by 19
+INFO:root:Moneky 1: Item with worry level 15 thrown to Monkey 0
+INFO:root:Moneky 1: inspect an item with a worry level of 45
+INFO:root:Moneky 1: apply operation (45 + 6) // 3
+INFO:root:Moneky 1: worry level is not divisible by 19
+INFO:root:Moneky 1: Item with worry level 17 thrown to Monkey 0
+INFO:root:Moneky 1: inspect an item with a worry level of 43
+INFO:root:Moneky 1: apply operation (43 + 6) // 3
+INFO:root:Moneky 1: worry level is not divisible by 19
+INFO:root:Moneky 1: Item with worry level 16 thrown to Monkey 0
+INFO:root:Moneky 1: inspect an item with a worry level of 258
+INFO:root:Moneky 1: apply operation (258 + 6) // 3
+INFO:root:Moneky 1: worry level is not divisible by 19
+INFO:root:Moneky 1: Item with worry level 88 thrown to Monkey 0
+INFO:root:Moneky 3: inspect an item with a worry level of 3109
+INFO:root:Moneky 3: apply operation (3109 + 3) // 3
+INFO:root:Moneky 3: worry level is divisible by 17
+INFO:root:Moneky 3: Item with worry level 1037 thrown to Monkey 0
+INFO:root:Moneky 3: inspect an item with a worry level of 57
+INFO:root:Moneky 3: apply operation (57 + 3) // 3
+INFO:root:Moneky 3: worry level is not divisible by 17
+INFO:root:Moneky 3: Item with worry level 20 thrown to Monkey 1
+INFO:root:Moneky 3: inspect an item with a worry level of 329
+INFO:root:Moneky 3: apply operation (329 + 3) // 3
+INFO:root:Moneky 3: worry level is not divisible by 17
+INFO:root:Moneky 3: Item with worry level 110 thrown to Monkey 1
+INFO:root:Moneky 3: inspect an item with a worry level of 614
+INFO:root:Moneky 3: apply operation (614 + 3) // 3
+INFO:root:Moneky 3: worry level is not divisible by 17
+INFO:root:Moneky 3: Item with worry level 205 thrown to Monkey 1
+INFO:root:Moneky 3: inspect an item with a worry level of 1570
+INFO:root:Moneky 3: apply operation (1570 + 3) // 3
+INFO:root:Moneky 3: worry level is not divisible by 17
+INFO:root:Moneky 3: Item with worry level 524 thrown to Monkey 1
+INFO:root:Moneky 3: inspect an item with a worry level of 215
+INFO:root:Moneky 3: apply operation (215 + 3) // 3
+INFO:root:Moneky 3: worry level is not divisible by 17
+INFO:root:Moneky 3: Item with worry level 72 thrown to Monkey 1
+INFO:root:Round 6
+INFO:root:Moneky 0: inspect an item with a worry level of 15
+INFO:root:Moneky 0: apply operation (15 * 19) // 3
+INFO:root:Moneky 0: worry level is not divisible by 23
+INFO:root:Moneky 0: Item with worry level 95 thrown to Monkey 3
+INFO:root:Moneky 0: inspect an item with a worry level of 17
+INFO:root:Moneky 0: apply operation (17 * 19) // 3
+INFO:root:Moneky 0: worry level is not divisible by 23
+INFO:root:Moneky 0: Item with worry level 107 thrown to Monkey 3
+INFO:root:Moneky 0: inspect an item with a worry level of 16
+INFO:root:Moneky 0: apply operation (16 * 19) // 3
+INFO:root:Moneky 0: worry level is not divisible by 23
+INFO:root:Moneky 0: Item with worry level 101 thrown to Monkey 3
+INFO:root:Moneky 0: inspect an item with a worry level of 88
+INFO:root:Moneky 0: apply operation (88 * 19) // 3
+INFO:root:Moneky 0: worry level is not divisible by 23
+INFO:root:Moneky 0: Item with worry level 557 thrown to Monkey 3
+INFO:root:Moneky 0: inspect an item with a worry level of 1037
+INFO:root:Moneky 0: apply operation (1037 * 19) // 3
+INFO:root:Moneky 0: worry level is not divisible by 23
+INFO:root:Moneky 0: Item with worry level 6567 thrown to Monkey 3
+INFO:root:Moneky 1: inspect an item with a worry level of 20
+INFO:root:Moneky 1: apply operation (20 + 6) // 3
+INFO:root:Moneky 1: worry level is not divisible by 19
+INFO:root:Moneky 1: Item with worry level 8 thrown to Monkey 0
+INFO:root:Moneky 1: inspect an item with a worry level of 110
+INFO:root:Moneky 1: apply operation (110 + 6) // 3
+INFO:root:Moneky 1: worry level is divisible by 19
+INFO:root:Moneky 1: Item with worry level 38 thrown to Monkey 2
+INFO:root:Moneky 1: inspect an item with a worry level of 205
+INFO:root:Moneky 1: apply operation (205 + 6) // 3
+INFO:root:Moneky 1: worry level is not divisible by 19
+INFO:root:Moneky 1: Item with worry level 70 thrown to Monkey 0
+INFO:root:Moneky 1: inspect an item with a worry level of 524
+INFO:root:Moneky 1: apply operation (524 + 6) // 3
+INFO:root:Moneky 1: worry level is not divisible by 19
+INFO:root:Moneky 1: Item with worry level 176 thrown to Monkey 0
+INFO:root:Moneky 1: inspect an item with a worry level of 72
+INFO:root:Moneky 1: apply operation (72 + 6) // 3
+INFO:root:Moneky 1: worry level is not divisible by 19
+INFO:root:Moneky 1: Item with worry level 26 thrown to Monkey 0
+INFO:root:Moneky 2: inspect an item with a worry level of 38
+INFO:root:Moneky 2: apply operation (38 * 38) // 3
+INFO:root:Moneky 2: worry level is divisible by 13
+INFO:root:Moneky 2: Item with worry level 481 thrown to Monkey 1
+INFO:root:Moneky 3: inspect an item with a worry level of 95
+INFO:root:Moneky 3: apply operation (95 + 3) // 3
+INFO:root:Moneky 3: worry level is not divisible by 17
+INFO:root:Moneky 3: Item with worry level 32 thrown to Monkey 1
+INFO:root:Moneky 3: inspect an item with a worry level of 107
+INFO:root:Moneky 3: apply operation (107 + 3) // 3
+INFO:root:Moneky 3: worry level is not divisible by 17
+INFO:root:Moneky 3: Item with worry level 36 thrown to Monkey 1
+INFO:root:Moneky 3: inspect an item with a worry level of 101
+INFO:root:Moneky 3: apply operation (101 + 3) // 3
+INFO:root:Moneky 3: worry level is divisible by 17
+INFO:root:Moneky 3: Item with worry level 34 thrown to Monkey 0
+INFO:root:Moneky 3: inspect an item with a worry level of 557
+INFO:root:Moneky 3: apply operation (557 + 3) // 3
+INFO:root:Moneky 3: worry level is not divisible by 17
+INFO:root:Moneky 3: Item with worry level 186 thrown to Monkey 1
+INFO:root:Moneky 3: inspect an item with a worry level of 6567
+INFO:root:Moneky 3: apply operation (6567 + 3) // 3
+INFO:root:Moneky 3: worry level is not divisible by 17
+INFO:root:Moneky 3: Item with worry level 2190 thrown to Monkey 1
+INFO:root:Round 7
+INFO:root:Moneky 0: inspect an item with a worry level of 8
+INFO:root:Moneky 0: apply operation (8 * 19) // 3
+INFO:root:Moneky 0: worry level is not divisible by 23
+INFO:root:Moneky 0: Item with worry level 50 thrown to Monkey 3
+INFO:root:Moneky 0: inspect an item with a worry level of 70
+INFO:root:Moneky 0: apply operation (70 * 19) // 3
+INFO:root:Moneky 0: worry level is not divisible by 23
+INFO:root:Moneky 0: Item with worry level 443 thrown to Monkey 3
+INFO:root:Moneky 0: inspect an item with a worry level of 176
+INFO:root:Moneky 0: apply operation (176 * 19) // 3
+INFO:root:Moneky 0: worry level is not divisible by 23
+INFO:root:Moneky 0: Item with worry level 1114 thrown to Monkey 3
+INFO:root:Moneky 0: inspect an item with a worry level of 26
+INFO:root:Moneky 0: apply operation (26 * 19) // 3
+INFO:root:Moneky 0: worry level is not divisible by 23
+INFO:root:Moneky 0: Item with worry level 164 thrown to Monkey 3
+INFO:root:Moneky 0: inspect an item with a worry level of 34
+INFO:root:Moneky 0: apply operation (34 * 19) // 3
+INFO:root:Moneky 0: worry level is not divisible by 23
+INFO:root:Moneky 0: Item with worry level 215 thrown to Monkey 3
+INFO:root:Moneky 1: inspect an item with a worry level of 481
+INFO:root:Moneky 1: apply operation (481 + 6) // 3
+INFO:root:Moneky 1: worry level is not divisible by 19
+INFO:root:Moneky 1: Item with worry level 162 thrown to Monkey 0
+INFO:root:Moneky 1: inspect an item with a worry level of 32
+INFO:root:Moneky 1: apply operation (32 + 6) // 3
+INFO:root:Moneky 1: worry level is not divisible by 19
+INFO:root:Moneky 1: Item with worry level 12 thrown to Monkey 0
+INFO:root:Moneky 1: inspect an item with a worry level of 36
+INFO:root:Moneky 1: apply operation (36 + 6) // 3
+INFO:root:Moneky 1: worry level is not divisible by 19
+INFO:root:Moneky 1: Item with worry level 14 thrown to Monkey 0
+INFO:root:Moneky 1: inspect an item with a worry level of 186
+INFO:root:Moneky 1: apply operation (186 + 6) // 3
+INFO:root:Moneky 1: worry level is not divisible by 19
+INFO:root:Moneky 1: Item with worry level 64 thrown to Monkey 0
+INFO:root:Moneky 1: inspect an item with a worry level of 2190
+INFO:root:Moneky 1: apply operation (2190 + 6) // 3
+INFO:root:Moneky 1: worry level is not divisible by 19
+INFO:root:Moneky 1: Item with worry level 732 thrown to Monkey 0
+INFO:root:Moneky 3: inspect an item with a worry level of 50
+INFO:root:Moneky 3: apply operation (50 + 3) // 3
+INFO:root:Moneky 3: worry level is divisible by 17
+INFO:root:Moneky 3: Item with worry level 17 thrown to Monkey 0
+INFO:root:Moneky 3: inspect an item with a worry level of 443
+INFO:root:Moneky 3: apply operation (443 + 3) // 3
+INFO:root:Moneky 3: worry level is not divisible by 17
+INFO:root:Moneky 3: Item with worry level 148 thrown to Monkey 1
+INFO:root:Moneky 3: inspect an item with a worry level of 1114
+INFO:root:Moneky 3: apply operation (1114 + 3) // 3
+INFO:root:Moneky 3: worry level is not divisible by 17
+INFO:root:Moneky 3: Item with worry level 372 thrown to Monkey 1
+INFO:root:Moneky 3: inspect an item with a worry level of 164
+INFO:root:Moneky 3: apply operation (164 + 3) // 3
+INFO:root:Moneky 3: worry level is not divisible by 17
+INFO:root:Moneky 3: Item with worry level 55 thrown to Monkey 1
+INFO:root:Moneky 3: inspect an item with a worry level of 215
+INFO:root:Moneky 3: apply operation (215 + 3) // 3
+INFO:root:Moneky 3: worry level is not divisible by 17
+INFO:root:Moneky 3: Item with worry level 72 thrown to Monkey 1
+INFO:root:Round 8
+INFO:root:Moneky 0: inspect an item with a worry level of 162
+INFO:root:Moneky 0: apply operation (162 * 19) // 3
+INFO:root:Moneky 0: worry level is not divisible by 23
+INFO:root:Moneky 0: Item with worry level 1026 thrown to Monkey 3
+INFO:root:Moneky 0: inspect an item with a worry level of 12
+INFO:root:Moneky 0: apply operation (12 * 19) // 3
+INFO:root:Moneky 0: worry level is not divisible by 23
+INFO:root:Moneky 0: Item with worry level 76 thrown to Monkey 3
+INFO:root:Moneky 0: inspect an item with a worry level of 14
+INFO:root:Moneky 0: apply operation (14 * 19) // 3
+INFO:root:Moneky 0: worry level is not divisible by 23
+INFO:root:Moneky 0: Item with worry level 88 thrown to Monkey 3
+INFO:root:Moneky 0: inspect an item with a worry level of 64
+INFO:root:Moneky 0: apply operation (64 * 19) // 3
+INFO:root:Moneky 0: worry level is not divisible by 23
+INFO:root:Moneky 0: Item with worry level 405 thrown to Monkey 3
+INFO:root:Moneky 0: inspect an item with a worry level of 732
+INFO:root:Moneky 0: apply operation (732 * 19) // 3
+INFO:root:Moneky 0: worry level is not divisible by 23
+INFO:root:Moneky 0: Item with worry level 4636 thrown to Monkey 3
+INFO:root:Moneky 0: inspect an item with a worry level of 17
+INFO:root:Moneky 0: apply operation (17 * 19) // 3
+INFO:root:Moneky 0: worry level is not divisible by 23
+INFO:root:Moneky 0: Item with worry level 107 thrown to Monkey 3
+INFO:root:Moneky 1: inspect an item with a worry level of 148
+INFO:root:Moneky 1: apply operation (148 + 6) // 3
+INFO:root:Moneky 1: worry level is not divisible by 19
+INFO:root:Moneky 1: Item with worry level 51 thrown to Monkey 0
+INFO:root:Moneky 1: inspect an item with a worry level of 372
+INFO:root:Moneky 1: apply operation (372 + 6) // 3
+INFO:root:Moneky 1: worry level is not divisible by 19
+INFO:root:Moneky 1: Item with worry level 126 thrown to Monkey 0
+INFO:root:Moneky 1: inspect an item with a worry level of 55
+INFO:root:Moneky 1: apply operation (55 + 6) // 3
+INFO:root:Moneky 1: worry level is not divisible by 19
+INFO:root:Moneky 1: Item with worry level 20 thrown to Monkey 0
+INFO:root:Moneky 1: inspect an item with a worry level of 72
+INFO:root:Moneky 1: apply operation (72 + 6) // 3
+INFO:root:Moneky 1: worry level is not divisible by 19
+INFO:root:Moneky 1: Item with worry level 26 thrown to Monkey 0
+INFO:root:Moneky 3: inspect an item with a worry level of 1026
+INFO:root:Moneky 3: apply operation (1026 + 3) // 3
+INFO:root:Moneky 3: worry level is not divisible by 17
+INFO:root:Moneky 3: Item with worry level 343 thrown to Monkey 1
+INFO:root:Moneky 3: inspect an item with a worry level of 76
+INFO:root:Moneky 3: apply operation (76 + 3) // 3
+INFO:root:Moneky 3: worry level is not divisible by 17
+INFO:root:Moneky 3: Item with worry level 26 thrown to Monkey 1
+INFO:root:Moneky 3: inspect an item with a worry level of 88
+INFO:root:Moneky 3: apply operation (88 + 3) // 3
+INFO:root:Moneky 3: worry level is not divisible by 17
+INFO:root:Moneky 3: Item with worry level 30 thrown to Monkey 1
+INFO:root:Moneky 3: inspect an item with a worry level of 405
+INFO:root:Moneky 3: apply operation (405 + 3) // 3
+INFO:root:Moneky 3: worry level is divisible by 17
+INFO:root:Moneky 3: Item with worry level 136 thrown to Monkey 0
+INFO:root:Moneky 3: inspect an item with a worry level of 4636
+INFO:root:Moneky 3: apply operation (4636 + 3) // 3
+INFO:root:Moneky 3: worry level is not divisible by 17
+INFO:root:Moneky 3: Item with worry level 1546 thrown to Monkey 1
+INFO:root:Moneky 3: inspect an item with a worry level of 107
+INFO:root:Moneky 3: apply operation (107 + 3) // 3
+INFO:root:Moneky 3: worry level is not divisible by 17
+INFO:root:Moneky 3: Item with worry level 36 thrown to Monkey 1
+INFO:root:Round 9
+INFO:root:Moneky 0: inspect an item with a worry level of 51
+INFO:root:Moneky 0: apply operation (51 * 19) // 3
+INFO:root:Moneky 0: worry level is not divisible by 23
+INFO:root:Moneky 0: Item with worry level 323 thrown to Monkey 3
+INFO:root:Moneky 0: inspect an item with a worry level of 126
+INFO:root:Moneky 0: apply operation (126 * 19) // 3
+INFO:root:Moneky 0: worry level is not divisible by 23
+INFO:root:Moneky 0: Item with worry level 798 thrown to Monkey 3
+INFO:root:Moneky 0: inspect an item with a worry level of 20
+INFO:root:Moneky 0: apply operation (20 * 19) // 3
+INFO:root:Moneky 0: worry level is not divisible by 23
+INFO:root:Moneky 0: Item with worry level 126 thrown to Monkey 3
+INFO:root:Moneky 0: inspect an item with a worry level of 26
+INFO:root:Moneky 0: apply operation (26 * 19) // 3
+INFO:root:Moneky 0: worry level is not divisible by 23
+INFO:root:Moneky 0: Item with worry level 164 thrown to Monkey 3
+INFO:root:Moneky 0: inspect an item with a worry level of 136
+INFO:root:Moneky 0: apply operation (136 * 19) // 3
+INFO:root:Moneky 0: worry level is not divisible by 23
+INFO:root:Moneky 0: Item with worry level 861 thrown to Monkey 3
+INFO:root:Moneky 1: inspect an item with a worry level of 343
+INFO:root:Moneky 1: apply operation (343 + 6) // 3
+INFO:root:Moneky 1: worry level is not divisible by 19
+INFO:root:Moneky 1: Item with worry level 116 thrown to Monkey 0
+INFO:root:Moneky 1: inspect an item with a worry level of 26
+INFO:root:Moneky 1: apply operation (26 + 6) // 3
+INFO:root:Moneky 1: worry level is not divisible by 19
+INFO:root:Moneky 1: Item with worry level 10 thrown to Monkey 0
+INFO:root:Moneky 1: inspect an item with a worry level of 30
+INFO:root:Moneky 1: apply operation (30 + 6) // 3
+INFO:root:Moneky 1: worry level is not divisible by 19
+INFO:root:Moneky 1: Item with worry level 12 thrown to Monkey 0
+INFO:root:Moneky 1: inspect an item with a worry level of 1546
+INFO:root:Moneky 1: apply operation (1546 + 6) // 3
+INFO:root:Moneky 1: worry level is not divisible by 19
+INFO:root:Moneky 1: Item with worry level 517 thrown to Monkey 0
+INFO:root:Moneky 1: inspect an item with a worry level of 36
+INFO:root:Moneky 1: apply operation (36 + 6) // 3
+INFO:root:Moneky 1: worry level is not divisible by 19
+INFO:root:Moneky 1: Item with worry level 14 thrown to Monkey 0
+INFO:root:Moneky 3: inspect an item with a worry level of 323
+INFO:root:Moneky 3: apply operation (323 + 3) // 3
+INFO:root:Moneky 3: worry level is not divisible by 17
+INFO:root:Moneky 3: Item with worry level 108 thrown to Monkey 1
+INFO:root:Moneky 3: inspect an item with a worry level of 798
+INFO:root:Moneky 3: apply operation (798 + 3) // 3
+INFO:root:Moneky 3: worry level is not divisible by 17
+INFO:root:Moneky 3: Item with worry level 267 thrown to Monkey 1
+INFO:root:Moneky 3: inspect an item with a worry level of 126
+INFO:root:Moneky 3: apply operation (126 + 3) // 3
+INFO:root:Moneky 3: worry level is not divisible by 17
+INFO:root:Moneky 3: Item with worry level 43 thrown to Monkey 1
+INFO:root:Moneky 3: inspect an item with a worry level of 164
+INFO:root:Moneky 3: apply operation (164 + 3) // 3
+INFO:root:Moneky 3: worry level is not divisible by 17
+INFO:root:Moneky 3: Item with worry level 55 thrown to Monkey 1
+INFO:root:Moneky 3: inspect an item with a worry level of 861
+INFO:root:Moneky 3: apply operation (861 + 3) // 3
+INFO:root:Moneky 3: worry level is not divisible by 17
+INFO:root:Moneky 3: Item with worry level 288 thrown to Monkey 1
+INFO:root:Round 10
+INFO:root:Moneky 0: inspect an item with a worry level of 116
+INFO:root:Moneky 0: apply operation (116 * 19) // 3
+INFO:root:Moneky 0: worry level is not divisible by 23
+INFO:root:Moneky 0: Item with worry level 734 thrown to Monkey 3
+INFO:root:Moneky 0: inspect an item with a worry level of 10
+INFO:root:Moneky 0: apply operation (10 * 19) // 3
+INFO:root:Moneky 0: worry level is not divisible by 23
+INFO:root:Moneky 0: Item with worry level 63 thrown to Monkey 3
+INFO:root:Moneky 0: inspect an item with a worry level of 12
+INFO:root:Moneky 0: apply operation (12 * 19) // 3
+INFO:root:Moneky 0: worry level is not divisible by 23
+INFO:root:Moneky 0: Item with worry level 76 thrown to Monkey 3
+INFO:root:Moneky 0: inspect an item with a worry level of 517
+INFO:root:Moneky 0: apply operation (517 * 19) // 3
+INFO:root:Moneky 0: worry level is not divisible by 23
+INFO:root:Moneky 0: Item with worry level 3274 thrown to Monkey 3
+INFO:root:Moneky 0: inspect an item with a worry level of 14
+INFO:root:Moneky 0: apply operation (14 * 19) // 3
+INFO:root:Moneky 0: worry level is not divisible by 23
+INFO:root:Moneky 0: Item with worry level 88 thrown to Monkey 3
+INFO:root:Moneky 1: inspect an item with a worry level of 108
+INFO:root:Moneky 1: apply operation (108 + 6) // 3
+INFO:root:Moneky 1: worry level is divisible by 19
+INFO:root:Moneky 1: Item with worry level 38 thrown to Monkey 2
+INFO:root:Moneky 1: inspect an item with a worry level of 267
+INFO:root:Moneky 1: apply operation (267 + 6) // 3
+INFO:root:Moneky 1: worry level is not divisible by 19
+INFO:root:Moneky 1: Item with worry level 91 thrown to Monkey 0
+INFO:root:Moneky 1: inspect an item with a worry level of 43
+INFO:root:Moneky 1: apply operation (43 + 6) // 3
+INFO:root:Moneky 1: worry level is not divisible by 19
+INFO:root:Moneky 1: Item with worry level 16 thrown to Monkey 0
+INFO:root:Moneky 1: inspect an item with a worry level of 55
+INFO:root:Moneky 1: apply operation (55 + 6) // 3
+INFO:root:Moneky 1: worry level is not divisible by 19
+INFO:root:Moneky 1: Item with worry level 20 thrown to Monkey 0
+INFO:root:Moneky 1: inspect an item with a worry level of 288
+INFO:root:Moneky 1: apply operation (288 + 6) // 3
+INFO:root:Moneky 1: worry level is not divisible by 19
+INFO:root:Moneky 1: Item with worry level 98 thrown to Monkey 0
+INFO:root:Moneky 2: inspect an item with a worry level of 38
+INFO:root:Moneky 2: apply operation (38 * 38) // 3
+INFO:root:Moneky 2: worry level is divisible by 13
+INFO:root:Moneky 2: Item with worry level 481 thrown to Monkey 1
+INFO:root:Moneky 3: inspect an item with a worry level of 734
+INFO:root:Moneky 3: apply operation (734 + 3) // 3
+INFO:root:Moneky 3: worry level is not divisible by 17
+INFO:root:Moneky 3: Item with worry level 245 thrown to Monkey 1
+INFO:root:Moneky 3: inspect an item with a worry level of 63
+INFO:root:Moneky 3: apply operation (63 + 3) // 3
+INFO:root:Moneky 3: worry level is not divisible by 17
+INFO:root:Moneky 3: Item with worry level 22 thrown to Monkey 1
+INFO:root:Moneky 3: inspect an item with a worry level of 76
+INFO:root:Moneky 3: apply operation (76 + 3) // 3
+INFO:root:Moneky 3: worry level is not divisible by 17
+INFO:root:Moneky 3: Item with worry level 26 thrown to Monkey 1
+INFO:root:Moneky 3: inspect an item with a worry level of 3274
+INFO:root:Moneky 3: apply operation (3274 + 3) // 3
+INFO:root:Moneky 3: worry level is not divisible by 17
+INFO:root:Moneky 3: Item with worry level 1092 thrown to Monkey 1
+INFO:root:Moneky 3: inspect an item with a worry level of 88
+INFO:root:Moneky 3: apply operation (88 + 3) // 3
+INFO:root:Moneky 3: worry level is not divisible by 17
+INFO:root:Moneky 3: Item with worry level 30 thrown to Monkey 1
+INFO:root:Round 11
+INFO:root:Moneky 0: inspect an item with a worry level of 91
+INFO:root:Moneky 0: apply operation (91 * 19) // 3
+INFO:root:Moneky 0: worry level is not divisible by 23
+INFO:root:Moneky 0: Item with worry level 576 thrown to Monkey 3
+INFO:root:Moneky 0: inspect an item with a worry level of 16
+INFO:root:Moneky 0: apply operation (16 * 19) // 3
+INFO:root:Moneky 0: worry level is not divisible by 23
+INFO:root:Moneky 0: Item with worry level 101 thrown to Monkey 3
+INFO:root:Moneky 0: inspect an item with a worry level of 20
+INFO:root:Moneky 0: apply operation (20 * 19) // 3
+INFO:root:Moneky 0: worry level is not divisible by 23
+INFO:root:Moneky 0: Item with worry level 126 thrown to Monkey 3
+INFO:root:Moneky 0: inspect an item with a worry level of 98
+INFO:root:Moneky 0: apply operation (98 * 19) // 3
+INFO:root:Moneky 0: worry level is not divisible by 23
+INFO:root:Moneky 0: Item with worry level 620 thrown to Monkey 3
+INFO:root:Moneky 1: inspect an item with a worry level of 481
+INFO:root:Moneky 1: apply operation (481 + 6) // 3
+INFO:root:Moneky 1: worry level is not divisible by 19
+INFO:root:Moneky 1: Item with worry level 162 thrown to Monkey 0
+INFO:root:Moneky 1: inspect an item with a worry level of 245
+INFO:root:Moneky 1: apply operation (245 + 6) // 3
+INFO:root:Moneky 1: worry level is not divisible by 19
+INFO:root:Moneky 1: Item with worry level 83 thrown to Monkey 0
+INFO:root:Moneky 1: inspect an item with a worry level of 22
+INFO:root:Moneky 1: apply operation (22 + 6) // 3
+INFO:root:Moneky 1: worry level is not divisible by 19
+INFO:root:Moneky 1: Item with worry level 9 thrown to Monkey 0
+INFO:root:Moneky 1: inspect an item with a worry level of 26
+INFO:root:Moneky 1: apply operation (26 + 6) // 3
+INFO:root:Moneky 1: worry level is not divisible by 19
+INFO:root:Moneky 1: Item with worry level 10 thrown to Monkey 0
+INFO:root:Moneky 1: inspect an item with a worry level of 1092
+INFO:root:Moneky 1: apply operation (1092 + 6) // 3
+INFO:root:Moneky 1: worry level is not divisible by 19
+INFO:root:Moneky 1: Item with worry level 366 thrown to Monkey 0
+INFO:root:Moneky 1: inspect an item with a worry level of 30
+INFO:root:Moneky 1: apply operation (30 + 6) // 3
+INFO:root:Moneky 1: worry level is not divisible by 19
+INFO:root:Moneky 1: Item with worry level 12 thrown to Monkey 0
+INFO:root:Moneky 3: inspect an item with a worry level of 576
+INFO:root:Moneky 3: apply operation (576 + 3) // 3
+INFO:root:Moneky 3: worry level is not divisible by 17
+INFO:root:Moneky 3: Item with worry level 193 thrown to Monkey 1
+INFO:root:Moneky 3: inspect an item with a worry level of 101
+INFO:root:Moneky 3: apply operation (101 + 3) // 3
+INFO:root:Moneky 3: worry level is divisible by 17
+INFO:root:Moneky 3: Item with worry level 34 thrown to Monkey 0
+INFO:root:Moneky 3: inspect an item with a worry level of 126
+INFO:root:Moneky 3: apply operation (126 + 3) // 3
+INFO:root:Moneky 3: worry level is not divisible by 17
+INFO:root:Moneky 3: Item with worry level 43 thrown to Monkey 1
+INFO:root:Moneky 3: inspect an item with a worry level of 620
+INFO:root:Moneky 3: apply operation (620 + 3) // 3
+INFO:root:Moneky 3: worry level is not divisible by 17
+INFO:root:Moneky 3: Item with worry level 207 thrown to Monkey 1
+INFO:root:Round 12
+INFO:root:Moneky 0: inspect an item with a worry level of 162
+INFO:root:Moneky 0: apply operation (162 * 19) // 3
+INFO:root:Moneky 0: worry level is not divisible by 23
+INFO:root:Moneky 0: Item with worry level 1026 thrown to Monkey 3
+INFO:root:Moneky 0: inspect an item with a worry level of 83
+INFO:root:Moneky 0: apply operation (83 * 19) // 3
+INFO:root:Moneky 0: worry level is not divisible by 23
+INFO:root:Moneky 0: Item with worry level 525 thrown to Monkey 3
+INFO:root:Moneky 0: inspect an item with a worry level of 9
+INFO:root:Moneky 0: apply operation (9 * 19) // 3
+INFO:root:Moneky 0: worry level is not divisible by 23
+INFO:root:Moneky 0: Item with worry level 57 thrown to Monkey 3
+INFO:root:Moneky 0: inspect an item with a worry level of 10
+INFO:root:Moneky 0: apply operation (10 * 19) // 3
+INFO:root:Moneky 0: worry level is not divisible by 23
+INFO:root:Moneky 0: Item with worry level 63 thrown to Monkey 3
+INFO:root:Moneky 0: inspect an item with a worry level of 366
+INFO:root:Moneky 0: apply operation (366 * 19) // 3
+INFO:root:Moneky 0: worry level is not divisible by 23
+INFO:root:Moneky 0: Item with worry level 2318 thrown to Monkey 3
+INFO:root:Moneky 0: inspect an item with a worry level of 12
+INFO:root:Moneky 0: apply operation (12 * 19) // 3
+INFO:root:Moneky 0: worry level is not divisible by 23
+INFO:root:Moneky 0: Item with worry level 76 thrown to Monkey 3
+INFO:root:Moneky 0: inspect an item with a worry level of 34
+INFO:root:Moneky 0: apply operation (34 * 19) // 3
+INFO:root:Moneky 0: worry level is not divisible by 23
+INFO:root:Moneky 0: Item with worry level 215 thrown to Monkey 3
+INFO:root:Moneky 1: inspect an item with a worry level of 193
+INFO:root:Moneky 1: apply operation (193 + 6) // 3
+INFO:root:Moneky 1: worry level is not divisible by 19
+INFO:root:Moneky 1: Item with worry level 66 thrown to Monkey 0
+INFO:root:Moneky 1: inspect an item with a worry level of 43
+INFO:root:Moneky 1: apply operation (43 + 6) // 3
+INFO:root:Moneky 1: worry level is not divisible by 19
+INFO:root:Moneky 1: Item with worry level 16 thrown to Monkey 0
+INFO:root:Moneky 1: inspect an item with a worry level of 207
+INFO:root:Moneky 1: apply operation (207 + 6) // 3
+INFO:root:Moneky 1: worry level is not divisible by 19
+INFO:root:Moneky 1: Item with worry level 71 thrown to Monkey 0
+INFO:root:Moneky 3: inspect an item with a worry level of 1026
+INFO:root:Moneky 3: apply operation (1026 + 3) // 3
+INFO:root:Moneky 3: worry level is not divisible by 17
+INFO:root:Moneky 3: Item with worry level 343 thrown to Monkey 1
+INFO:root:Moneky 3: inspect an item with a worry level of 525
+INFO:root:Moneky 3: apply operation (525 + 3) // 3
+INFO:root:Moneky 3: worry level is not divisible by 17
+INFO:root:Moneky 3: Item with worry level 176 thrown to Monkey 1
+INFO:root:Moneky 3: inspect an item with a worry level of 57
+INFO:root:Moneky 3: apply operation (57 + 3) // 3
+INFO:root:Moneky 3: worry level is not divisible by 17
+INFO:root:Moneky 3: Item with worry level 20 thrown to Monkey 1
+INFO:root:Moneky 3: inspect an item with a worry level of 63
+INFO:root:Moneky 3: apply operation (63 + 3) // 3
+INFO:root:Moneky 3: worry level is not divisible by 17
+INFO:root:Moneky 3: Item with worry level 22 thrown to Monkey 1
+INFO:root:Moneky 3: inspect an item with a worry level of 2318
+INFO:root:Moneky 3: apply operation (2318 + 3) // 3
+INFO:root:Moneky 3: worry level is not divisible by 17
+INFO:root:Moneky 3: Item with worry level 773 thrown to Monkey 1
+INFO:root:Moneky 3: inspect an item with a worry level of 76
+INFO:root:Moneky 3: apply operation (76 + 3) // 3
+INFO:root:Moneky 3: worry level is not divisible by 17
+INFO:root:Moneky 3: Item with worry level 26 thrown to Monkey 1
+INFO:root:Moneky 3: inspect an item with a worry level of 215
+INFO:root:Moneky 3: apply operation (215 + 3) // 3
+INFO:root:Moneky 3: worry level is not divisible by 17
+INFO:root:Moneky 3: Item with worry level 72 thrown to Monkey 1
+INFO:root:Round 13
+INFO:root:Moneky 0: inspect an item with a worry level of 66
+INFO:root:Moneky 0: apply operation (66 * 19) // 3
+INFO:root:Moneky 0: worry level is not divisible by 23
+INFO:root:Moneky 0: Item with worry level 418 thrown to Monkey 3
+INFO:root:Moneky 0: inspect an item with a worry level of 16
+INFO:root:Moneky 0: apply operation (16 * 19) // 3
+INFO:root:Moneky 0: worry level is not divisible by 23
+INFO:root:Moneky 0: Item with worry level 101 thrown to Monkey 3
+INFO:root:Moneky 0: inspect an item with a worry level of 71
+INFO:root:Moneky 0: apply operation (71 * 19) // 3
+INFO:root:Moneky 0: worry level is not divisible by 23
+INFO:root:Moneky 0: Item with worry level 449 thrown to Monkey 3
+INFO:root:Moneky 1: inspect an item with a worry level of 343
+INFO:root:Moneky 1: apply operation (343 + 6) // 3
+INFO:root:Moneky 1: worry level is not divisible by 19
+INFO:root:Moneky 1: Item with worry level 116 thrown to Monkey 0
+INFO:root:Moneky 1: inspect an item with a worry level of 176
+INFO:root:Moneky 1: apply operation (176 + 6) // 3
+INFO:root:Moneky 1: worry level is not divisible by 19
+INFO:root:Moneky 1: Item with worry level 60 thrown to Monkey 0
+INFO:root:Moneky 1: inspect an item with a worry level of 20
+INFO:root:Moneky 1: apply operation (20 + 6) // 3
+INFO:root:Moneky 1: worry level is not divisible by 19
+INFO:root:Moneky 1: Item with worry level 8 thrown to Monkey 0
+INFO:root:Moneky 1: inspect an item with a worry level of 22
+INFO:root:Moneky 1: apply operation (22 + 6) // 3
+INFO:root:Moneky 1: worry level is not divisible by 19
+INFO:root:Moneky 1: Item with worry level 9 thrown to Monkey 0
+INFO:root:Moneky 1: inspect an item with a worry level of 773
+INFO:root:Moneky 1: apply operation (773 + 6) // 3
+INFO:root:Moneky 1: worry level is not divisible by 19
+INFO:root:Moneky 1: Item with worry level 259 thrown to Monkey 0
+INFO:root:Moneky 1: inspect an item with a worry level of 26
+INFO:root:Moneky 1: apply operation (26 + 6) // 3
+INFO:root:Moneky 1: worry level is not divisible by 19
+INFO:root:Moneky 1: Item with worry level 10 thrown to Monkey 0
+INFO:root:Moneky 1: inspect an item with a worry level of 72
+INFO:root:Moneky 1: apply operation (72 + 6) // 3
+INFO:root:Moneky 1: worry level is not divisible by 19
+INFO:root:Moneky 1: Item with worry level 26 thrown to Monkey 0
+INFO:root:Moneky 3: inspect an item with a worry level of 418
+INFO:root:Moneky 3: apply operation (418 + 3) // 3
+INFO:root:Moneky 3: worry level is not divisible by 17
+INFO:root:Moneky 3: Item with worry level 140 thrown to Monkey 1
+INFO:root:Moneky 3: inspect an item with a worry level of 101
+INFO:root:Moneky 3: apply operation (101 + 3) // 3
+INFO:root:Moneky 3: worry level is divisible by 17
+INFO:root:Moneky 3: Item with worry level 34 thrown to Monkey 0
+INFO:root:Moneky 3: inspect an item with a worry level of 449
+INFO:root:Moneky 3: apply operation (449 + 3) // 3
+INFO:root:Moneky 3: worry level is not divisible by 17
+INFO:root:Moneky 3: Item with worry level 150 thrown to Monkey 1
+INFO:root:Round 14
+INFO:root:Moneky 0: inspect an item with a worry level of 116
+INFO:root:Moneky 0: apply operation (116 * 19) // 3
+INFO:root:Moneky 0: worry level is not divisible by 23
+INFO:root:Moneky 0: Item with worry level 734 thrown to Monkey 3
+INFO:root:Moneky 0: inspect an item with a worry level of 60
+INFO:root:Moneky 0: apply operation (60 * 19) // 3
+INFO:root:Moneky 0: worry level is not divisible by 23
+INFO:root:Moneky 0: Item with worry level 380 thrown to Monkey 3
+INFO:root:Moneky 0: inspect an item with a worry level of 8
+INFO:root:Moneky 0: apply operation (8 * 19) // 3
+INFO:root:Moneky 0: worry level is not divisible by 23
+INFO:root:Moneky 0: Item with worry level 50 thrown to Monkey 3
+INFO:root:Moneky 0: inspect an item with a worry level of 9
+INFO:root:Moneky 0: apply operation (9 * 19) // 3
+INFO:root:Moneky 0: worry level is not divisible by 23
+INFO:root:Moneky 0: Item with worry level 57 thrown to Monkey 3
+INFO:root:Moneky 0: inspect an item with a worry level of 259
+INFO:root:Moneky 0: apply operation (259 * 19) // 3
+INFO:root:Moneky 0: worry level is not divisible by 23
+INFO:root:Moneky 0: Item with worry level 1640 thrown to Monkey 3
+INFO:root:Moneky 0: inspect an item with a worry level of 10
+INFO:root:Moneky 0: apply operation (10 * 19) // 3
+INFO:root:Moneky 0: worry level is not divisible by 23
+INFO:root:Moneky 0: Item with worry level 63 thrown to Monkey 3
+INFO:root:Moneky 0: inspect an item with a worry level of 26
+INFO:root:Moneky 0: apply operation (26 * 19) // 3
+INFO:root:Moneky 0: worry level is not divisible by 23
+INFO:root:Moneky 0: Item with worry level 164 thrown to Monkey 3
+INFO:root:Moneky 0: inspect an item with a worry level of 34
+INFO:root:Moneky 0: apply operation (34 * 19) // 3
+INFO:root:Moneky 0: worry level is not divisible by 23
+INFO:root:Moneky 0: Item with worry level 215 thrown to Monkey 3
+INFO:root:Moneky 1: inspect an item with a worry level of 140
+INFO:root:Moneky 1: apply operation (140 + 6) // 3
+INFO:root:Moneky 1: worry level is not divisible by 19
+INFO:root:Moneky 1: Item with worry level 48 thrown to Monkey 0
+INFO:root:Moneky 1: inspect an item with a worry level of 150
+INFO:root:Moneky 1: apply operation (150 + 6) // 3
+INFO:root:Moneky 1: worry level is not divisible by 19
+INFO:root:Moneky 1: Item with worry level 52 thrown to Monkey 0
+INFO:root:Moneky 3: inspect an item with a worry level of 734
+INFO:root:Moneky 3: apply operation (734 + 3) // 3
+INFO:root:Moneky 3: worry level is not divisible by 17
+INFO:root:Moneky 3: Item with worry level 245 thrown to Monkey 1
+INFO:root:Moneky 3: inspect an item with a worry level of 380
+INFO:root:Moneky 3: apply operation (380 + 3) // 3
+INFO:root:Moneky 3: worry level is not divisible by 17
+INFO:root:Moneky 3: Item with worry level 127 thrown to Monkey 1
+INFO:root:Moneky 3: inspect an item with a worry level of 50
+INFO:root:Moneky 3: apply operation (50 + 3) // 3
+INFO:root:Moneky 3: worry level is divisible by 17
+INFO:root:Moneky 3: Item with worry level 17 thrown to Monkey 0
+INFO:root:Moneky 3: inspect an item with a worry level of 57
+INFO:root:Moneky 3: apply operation (57 + 3) // 3
+INFO:root:Moneky 3: worry level is not divisible by 17
+INFO:root:Moneky 3: Item with worry level 20 thrown to Monkey 1
+INFO:root:Moneky 3: inspect an item with a worry level of 1640
+INFO:root:Moneky 3: apply operation (1640 + 3) // 3
+INFO:root:Moneky 3: worry level is not divisible by 17
+INFO:root:Moneky 3: Item with worry level 547 thrown to Monkey 1
+INFO:root:Moneky 3: inspect an item with a worry level of 63
+INFO:root:Moneky 3: apply operation (63 + 3) // 3
+INFO:root:Moneky 3: worry level is not divisible by 17
+INFO:root:Moneky 3: Item with worry level 22 thrown to Monkey 1
+INFO:root:Moneky 3: inspect an item with a worry level of 164
+INFO:root:Moneky 3: apply operation (164 + 3) // 3
+INFO:root:Moneky 3: worry level is not divisible by 17
+INFO:root:Moneky 3: Item with worry level 55 thrown to Monkey 1
+INFO:root:Moneky 3: inspect an item with a worry level of 215
+INFO:root:Moneky 3: apply operation (215 + 3) // 3
+INFO:root:Moneky 3: worry level is not divisible by 17
+INFO:root:Moneky 3: Item with worry level 72 thrown to Monkey 1
+INFO:root:Round 15
+INFO:root:Moneky 0: inspect an item with a worry level of 48
+INFO:root:Moneky 0: apply operation (48 * 19) // 3
+INFO:root:Moneky 0: worry level is not divisible by 23
+INFO:root:Moneky 0: Item with worry level 304 thrown to Monkey 3
+INFO:root:Moneky 0: inspect an item with a worry level of 52
+INFO:root:Moneky 0: apply operation (52 * 19) // 3
+INFO:root:Moneky 0: worry level is not divisible by 23
+INFO:root:Moneky 0: Item with worry level 329 thrown to Monkey 3
+INFO:root:Moneky 0: inspect an item with a worry level of 17
+INFO:root:Moneky 0: apply operation (17 * 19) // 3
+INFO:root:Moneky 0: worry level is not divisible by 23
+INFO:root:Moneky 0: Item with worry level 107 thrown to Monkey 3
+INFO:root:Moneky 1: inspect an item with a worry level of 245
+INFO:root:Moneky 1: apply operation (245 + 6) // 3
+INFO:root:Moneky 1: worry level is not divisible by 19
+INFO:root:Moneky 1: Item with worry level 83 thrown to Monkey 0
+INFO:root:Moneky 1: inspect an item with a worry level of 127
+INFO:root:Moneky 1: apply operation (127 + 6) // 3
+INFO:root:Moneky 1: worry level is not divisible by 19
+INFO:root:Moneky 1: Item with worry level 44 thrown to Monkey 0
+INFO:root:Moneky 1: inspect an item with a worry level of 20
+INFO:root:Moneky 1: apply operation (20 + 6) // 3
+INFO:root:Moneky 1: worry level is not divisible by 19
+INFO:root:Moneky 1: Item with worry level 8 thrown to Monkey 0
+INFO:root:Moneky 1: inspect an item with a worry level of 547
+INFO:root:Moneky 1: apply operation (547 + 6) // 3
+INFO:root:Moneky 1: worry level is not divisible by 19
+INFO:root:Moneky 1: Item with worry level 184 thrown to Monkey 0
+INFO:root:Moneky 1: inspect an item with a worry level of 22
+INFO:root:Moneky 1: apply operation (22 + 6) // 3
+INFO:root:Moneky 1: worry level is not divisible by 19
+INFO:root:Moneky 1: Item with worry level 9 thrown to Monkey 0
+INFO:root:Moneky 1: inspect an item with a worry level of 55
+INFO:root:Moneky 1: apply operation (55 + 6) // 3
+INFO:root:Moneky 1: worry level is not divisible by 19
+INFO:root:Moneky 1: Item with worry level 20 thrown to Monkey 0
+INFO:root:Moneky 1: inspect an item with a worry level of 72
+INFO:root:Moneky 1: apply operation (72 + 6) // 3
+INFO:root:Moneky 1: worry level is not divisible by 19
+INFO:root:Moneky 1: Item with worry level 26 thrown to Monkey 0
+INFO:root:Moneky 3: inspect an item with a worry level of 304
+INFO:root:Moneky 3: apply operation (304 + 3) // 3
+INFO:root:Moneky 3: worry level is divisible by 17
+INFO:root:Moneky 3: Item with worry level 102 thrown to Monkey 0
+INFO:root:Moneky 3: inspect an item with a worry level of 329
+INFO:root:Moneky 3: apply operation (329 + 3) // 3
+INFO:root:Moneky 3: worry level is not divisible by 17
+INFO:root:Moneky 3: Item with worry level 110 thrown to Monkey 1
+INFO:root:Moneky 3: inspect an item with a worry level of 107
+INFO:root:Moneky 3: apply operation (107 + 3) // 3
+INFO:root:Moneky 3: worry level is not divisible by 17
+INFO:root:Moneky 3: Item with worry level 36 thrown to Monkey 1
+INFO:root:Round 16
+INFO:root:Moneky 0: inspect an item with a worry level of 83
+INFO:root:Moneky 0: apply operation (83 * 19) // 3
+INFO:root:Moneky 0: worry level is not divisible by 23
+INFO:root:Moneky 0: Item with worry level 525 thrown to Monkey 3
+INFO:root:Moneky 0: inspect an item with a worry level of 44
+INFO:root:Moneky 0: apply operation (44 * 19) // 3
+INFO:root:Moneky 0: worry level is not divisible by 23
+INFO:root:Moneky 0: Item with worry level 278 thrown to Monkey 3
+INFO:root:Moneky 0: inspect an item with a worry level of 8
+INFO:root:Moneky 0: apply operation (8 * 19) // 3
+INFO:root:Moneky 0: worry level is not divisible by 23
+INFO:root:Moneky 0: Item with worry level 50 thrown to Monkey 3
+INFO:root:Moneky 0: inspect an item with a worry level of 184
+INFO:root:Moneky 0: apply operation (184 * 19) // 3
+INFO:root:Moneky 0: worry level is not divisible by 23
+INFO:root:Moneky 0: Item with worry level 1165 thrown to Monkey 3
+INFO:root:Moneky 0: inspect an item with a worry level of 9
+INFO:root:Moneky 0: apply operation (9 * 19) // 3
+INFO:root:Moneky 0: worry level is not divisible by 23
+INFO:root:Moneky 0: Item with worry level 57 thrown to Monkey 3
+INFO:root:Moneky 0: inspect an item with a worry level of 20
+INFO:root:Moneky 0: apply operation (20 * 19) // 3
+INFO:root:Moneky 0: worry level is not divisible by 23
+INFO:root:Moneky 0: Item with worry level 126 thrown to Monkey 3
+INFO:root:Moneky 0: inspect an item with a worry level of 26
+INFO:root:Moneky 0: apply operation (26 * 19) // 3
+INFO:root:Moneky 0: worry level is not divisible by 23
+INFO:root:Moneky 0: Item with worry level 164 thrown to Monkey 3
+INFO:root:Moneky 0: inspect an item with a worry level of 102
+INFO:root:Moneky 0: apply operation (102 * 19) // 3
+INFO:root:Moneky 0: worry level is not divisible by 23
+INFO:root:Moneky 0: Item with worry level 646 thrown to Monkey 3
+INFO:root:Moneky 1: inspect an item with a worry level of 110
+INFO:root:Moneky 1: apply operation (110 + 6) // 3
+INFO:root:Moneky 1: worry level is divisible by 19
+INFO:root:Moneky 1: Item with worry level 38 thrown to Monkey 2
+INFO:root:Moneky 1: inspect an item with a worry level of 36
+INFO:root:Moneky 1: apply operation (36 + 6) // 3
+INFO:root:Moneky 1: worry level is not divisible by 19
+INFO:root:Moneky 1: Item with worry level 14 thrown to Monkey 0
+INFO:root:Moneky 2: inspect an item with a worry level of 38
+INFO:root:Moneky 2: apply operation (38 * 38) // 3
+INFO:root:Moneky 2: worry level is divisible by 13
+INFO:root:Moneky 2: Item with worry level 481 thrown to Monkey 1
+INFO:root:Moneky 3: inspect an item with a worry level of 525
+INFO:root:Moneky 3: apply operation (525 + 3) // 3
+INFO:root:Moneky 3: worry level is not divisible by 17
+INFO:root:Moneky 3: Item with worry level 176 thrown to Monkey 1
+INFO:root:Moneky 3: inspect an item with a worry level of 278
+INFO:root:Moneky 3: apply operation (278 + 3) // 3
+INFO:root:Moneky 3: worry level is not divisible by 17
+INFO:root:Moneky 3: Item with worry level 93 thrown to Monkey 1
+INFO:root:Moneky 3: inspect an item with a worry level of 50
+INFO:root:Moneky 3: apply operation (50 + 3) // 3
+INFO:root:Moneky 3: worry level is divisible by 17
+INFO:root:Moneky 3: Item with worry level 17 thrown to Monkey 0
+INFO:root:Moneky 3: inspect an item with a worry level of 1165
+INFO:root:Moneky 3: apply operation (1165 + 3) // 3
+INFO:root:Moneky 3: worry level is not divisible by 17
+INFO:root:Moneky 3: Item with worry level 389 thrown to Monkey 1
+INFO:root:Moneky 3: inspect an item with a worry level of 57
+INFO:root:Moneky 3: apply operation (57 + 3) // 3
+INFO:root:Moneky 3: worry level is not divisible by 17
+INFO:root:Moneky 3: Item with worry level 20 thrown to Monkey 1
+INFO:root:Moneky 3: inspect an item with a worry level of 126
+INFO:root:Moneky 3: apply operation (126 + 3) // 3
+INFO:root:Moneky 3: worry level is not divisible by 17
+INFO:root:Moneky 3: Item with worry level 43 thrown to Monkey 1
+INFO:root:Moneky 3: inspect an item with a worry level of 164
+INFO:root:Moneky 3: apply operation (164 + 3) // 3
+INFO:root:Moneky 3: worry level is not divisible by 17
+INFO:root:Moneky 3: Item with worry level 55 thrown to Monkey 1
+INFO:root:Moneky 3: inspect an item with a worry level of 646
+INFO:root:Moneky 3: apply operation (646 + 3) // 3
+INFO:root:Moneky 3: worry level is not divisible by 17
+INFO:root:Moneky 3: Item with worry level 216 thrown to Monkey 1
+INFO:root:Round 17
+INFO:root:Moneky 0: inspect an item with a worry level of 14
+INFO:root:Moneky 0: apply operation (14 * 19) // 3
+INFO:root:Moneky 0: worry level is not divisible by 23
+INFO:root:Moneky 0: Item with worry level 88 thrown to Monkey 3
+INFO:root:Moneky 0: inspect an item with a worry level of 17
+INFO:root:Moneky 0: apply operation (17 * 19) // 3
+INFO:root:Moneky 0: worry level is not divisible by 23
+INFO:root:Moneky 0: Item with worry level 107 thrown to Monkey 3
+INFO:root:Moneky 1: inspect an item with a worry level of 481
+INFO:root:Moneky 1: apply operation (481 + 6) // 3
+INFO:root:Moneky 1: worry level is not divisible by 19
+INFO:root:Moneky 1: Item with worry level 162 thrown to Monkey 0
+INFO:root:Moneky 1: inspect an item with a worry level of 176
+INFO:root:Moneky 1: apply operation (176 + 6) // 3
+INFO:root:Moneky 1: worry level is not divisible by 19
+INFO:root:Moneky 1: Item with worry level 60 thrown to Monkey 0
+INFO:root:Moneky 1: inspect an item with a worry level of 93
+INFO:root:Moneky 1: apply operation (93 + 6) // 3
+INFO:root:Moneky 1: worry level is not divisible by 19
+INFO:root:Moneky 1: Item with worry level 33 thrown to Monkey 0
+INFO:root:Moneky 1: inspect an item with a worry level of 389
+INFO:root:Moneky 1: apply operation (389 + 6) // 3
+INFO:root:Moneky 1: worry level is not divisible by 19
+INFO:root:Moneky 1: Item with worry level 131 thrown to Monkey 0
+INFO:root:Moneky 1: inspect an item with a worry level of 20
+INFO:root:Moneky 1: apply operation (20 + 6) // 3
+INFO:root:Moneky 1: worry level is not divisible by 19
+INFO:root:Moneky 1: Item with worry level 8 thrown to Monkey 0
+INFO:root:Moneky 1: inspect an item with a worry level of 43
+INFO:root:Moneky 1: apply operation (43 + 6) // 3
+INFO:root:Moneky 1: worry level is not divisible by 19
+INFO:root:Moneky 1: Item with worry level 16 thrown to Monkey 0
+INFO:root:Moneky 1: inspect an item with a worry level of 55
+INFO:root:Moneky 1: apply operation (55 + 6) // 3
+INFO:root:Moneky 1: worry level is not divisible by 19
+INFO:root:Moneky 1: Item with worry level 20 thrown to Monkey 0
+INFO:root:Moneky 1: inspect an item with a worry level of 216
+INFO:root:Moneky 1: apply operation (216 + 6) // 3
+INFO:root:Moneky 1: worry level is not divisible by 19
+INFO:root:Moneky 1: Item with worry level 74 thrown to Monkey 0
+INFO:root:Moneky 3: inspect an item with a worry level of 88
+INFO:root:Moneky 3: apply operation (88 + 3) // 3
+INFO:root:Moneky 3: worry level is not divisible by 17
+INFO:root:Moneky 3: Item with worry level 30 thrown to Monkey 1
+INFO:root:Moneky 3: inspect an item with a worry level of 107
+INFO:root:Moneky 3: apply operation (107 + 3) // 3
+INFO:root:Moneky 3: worry level is not divisible by 17
+INFO:root:Moneky 3: Item with worry level 36 thrown to Monkey 1
+INFO:root:Round 18
+INFO:root:Moneky 0: inspect an item with a worry level of 162
+INFO:root:Moneky 0: apply operation (162 * 19) // 3
+INFO:root:Moneky 0: worry level is not divisible by 23
+INFO:root:Moneky 0: Item with worry level 1026 thrown to Monkey 3
+INFO:root:Moneky 0: inspect an item with a worry level of 60
+INFO:root:Moneky 0: apply operation (60 * 19) // 3
+INFO:root:Moneky 0: worry level is not divisible by 23
+INFO:root:Moneky 0: Item with worry level 380 thrown to Monkey 3
+INFO:root:Moneky 0: inspect an item with a worry level of 33
+INFO:root:Moneky 0: apply operation (33 * 19) // 3
+INFO:root:Moneky 0: worry level is not divisible by 23
+INFO:root:Moneky 0: Item with worry level 209 thrown to Monkey 3
+INFO:root:Moneky 0: inspect an item with a worry level of 131
+INFO:root:Moneky 0: apply operation (131 * 19) // 3
+INFO:root:Moneky 0: worry level is not divisible by 23
+INFO:root:Moneky 0: Item with worry level 829 thrown to Monkey 3
+INFO:root:Moneky 0: inspect an item with a worry level of 8
+INFO:root:Moneky 0: apply operation (8 * 19) // 3
+INFO:root:Moneky 0: worry level is not divisible by 23
+INFO:root:Moneky 0: Item with worry level 50 thrown to Monkey 3
+INFO:root:Moneky 0: inspect an item with a worry level of 16
+INFO:root:Moneky 0: apply operation (16 * 19) // 3
+INFO:root:Moneky 0: worry level is not divisible by 23
+INFO:root:Moneky 0: Item with worry level 101 thrown to Monkey 3
+INFO:root:Moneky 0: inspect an item with a worry level of 20
+INFO:root:Moneky 0: apply operation (20 * 19) // 3
+INFO:root:Moneky 0: worry level is not divisible by 23
+INFO:root:Moneky 0: Item with worry level 126 thrown to Monkey 3
+INFO:root:Moneky 0: inspect an item with a worry level of 74
+INFO:root:Moneky 0: apply operation (74 * 19) // 3
+INFO:root:Moneky 0: worry level is not divisible by 23
+INFO:root:Moneky 0: Item with worry level 468 thrown to Monkey 3
+INFO:root:Moneky 1: inspect an item with a worry level of 30
+INFO:root:Moneky 1: apply operation (30 + 6) // 3
+INFO:root:Moneky 1: worry level is not divisible by 19
+INFO:root:Moneky 1: Item with worry level 12 thrown to Monkey 0
+INFO:root:Moneky 1: inspect an item with a worry level of 36
+INFO:root:Moneky 1: apply operation (36 + 6) // 3
+INFO:root:Moneky 1: worry level is not divisible by 19
+INFO:root:Moneky 1: Item with worry level 14 thrown to Monkey 0
+INFO:root:Moneky 3: inspect an item with a worry level of 1026
+INFO:root:Moneky 3: apply operation (1026 + 3) // 3
+INFO:root:Moneky 3: worry level is not divisible by 17
+INFO:root:Moneky 3: Item with worry level 343 thrown to Monkey 1
+INFO:root:Moneky 3: inspect an item with a worry level of 380
+INFO:root:Moneky 3: apply operation (380 + 3) // 3
+INFO:root:Moneky 3: worry level is not divisible by 17
+INFO:root:Moneky 3: Item with worry level 127 thrown to Monkey 1
+INFO:root:Moneky 3: inspect an item with a worry level of 209
+INFO:root:Moneky 3: apply operation (209 + 3) // 3
+INFO:root:Moneky 3: worry level is not divisible by 17
+INFO:root:Moneky 3: Item with worry level 70 thrown to Monkey 1
+INFO:root:Moneky 3: inspect an item with a worry level of 829
+INFO:root:Moneky 3: apply operation (829 + 3) // 3
+INFO:root:Moneky 3: worry level is not divisible by 17
+INFO:root:Moneky 3: Item with worry level 277 thrown to Monkey 1
+INFO:root:Moneky 3: inspect an item with a worry level of 50
+INFO:root:Moneky 3: apply operation (50 + 3) // 3
+INFO:root:Moneky 3: worry level is divisible by 17
+INFO:root:Moneky 3: Item with worry level 17 thrown to Monkey 0
+INFO:root:Moneky 3: inspect an item with a worry level of 101
+INFO:root:Moneky 3: apply operation (101 + 3) // 3
+INFO:root:Moneky 3: worry level is divisible by 17
+INFO:root:Moneky 3: Item with worry level 34 thrown to Monkey 0
+INFO:root:Moneky 3: inspect an item with a worry level of 126
+INFO:root:Moneky 3: apply operation (126 + 3) // 3
+INFO:root:Moneky 3: worry level is not divisible by 17
+INFO:root:Moneky 3: Item with worry level 43 thrown to Monkey 1
+INFO:root:Moneky 3: inspect an item with a worry level of 468
+INFO:root:Moneky 3: apply operation (468 + 3) // 3
+INFO:root:Moneky 3: worry level is not divisible by 17
+INFO:root:Moneky 3: Item with worry level 157 thrown to Monkey 1
+INFO:root:Round 19
+INFO:root:Moneky 0: inspect an item with a worry level of 12
+INFO:root:Moneky 0: apply operation (12 * 19) // 3
+INFO:root:Moneky 0: worry level is not divisible by 23
+INFO:root:Moneky 0: Item with worry level 76 thrown to Monkey 3
+INFO:root:Moneky 0: inspect an item with a worry level of 14
+INFO:root:Moneky 0: apply operation (14 * 19) // 3
+INFO:root:Moneky 0: worry level is not divisible by 23
+INFO:root:Moneky 0: Item with worry level 88 thrown to Monkey 3
+INFO:root:Moneky 0: inspect an item with a worry level of 17
+INFO:root:Moneky 0: apply operation (17 * 19) // 3
+INFO:root:Moneky 0: worry level is not divisible by 23
+INFO:root:Moneky 0: Item with worry level 107 thrown to Monkey 3
+INFO:root:Moneky 0: inspect an item with a worry level of 34
+INFO:root:Moneky 0: apply operation (34 * 19) // 3
+INFO:root:Moneky 0: worry level is not divisible by 23
+INFO:root:Moneky 0: Item with worry level 215 thrown to Monkey 3
+INFO:root:Moneky 1: inspect an item with a worry level of 343
+INFO:root:Moneky 1: apply operation (343 + 6) // 3
+INFO:root:Moneky 1: worry level is not divisible by 19
+INFO:root:Moneky 1: Item with worry level 116 thrown to Monkey 0
+INFO:root:Moneky 1: inspect an item with a worry level of 127
+INFO:root:Moneky 1: apply operation (127 + 6) // 3
+INFO:root:Moneky 1: worry level is not divisible by 19
+INFO:root:Moneky 1: Item with worry level 44 thrown to Monkey 0
+INFO:root:Moneky 1: inspect an item with a worry level of 70
+INFO:root:Moneky 1: apply operation (70 + 6) // 3
+INFO:root:Moneky 1: worry level is not divisible by 19
+INFO:root:Moneky 1: Item with worry level 25 thrown to Monkey 0
+INFO:root:Moneky 1: inspect an item with a worry level of 277
+INFO:root:Moneky 1: apply operation (277 + 6) // 3
+INFO:root:Moneky 1: worry level is not divisible by 19
+INFO:root:Moneky 1: Item with worry level 94 thrown to Monkey 0
+INFO:root:Moneky 1: inspect an item with a worry level of 43
+INFO:root:Moneky 1: apply operation (43 + 6) // 3
+INFO:root:Moneky 1: worry level is not divisible by 19
+INFO:root:Moneky 1: Item with worry level 16 thrown to Monkey 0
+INFO:root:Moneky 1: inspect an item with a worry level of 157
+INFO:root:Moneky 1: apply operation (157 + 6) // 3
+INFO:root:Moneky 1: worry level is not divisible by 19
+INFO:root:Moneky 1: Item with worry level 54 thrown to Monkey 0
+INFO:root:Moneky 3: inspect an item with a worry level of 76
+INFO:root:Moneky 3: apply operation (76 + 3) // 3
+INFO:root:Moneky 3: worry level is not divisible by 17
+INFO:root:Moneky 3: Item with worry level 26 thrown to Monkey 1
+INFO:root:Moneky 3: inspect an item with a worry level of 88
+INFO:root:Moneky 3: apply operation (88 + 3) // 3
+INFO:root:Moneky 3: worry level is not divisible by 17
+INFO:root:Moneky 3: Item with worry level 30 thrown to Monkey 1
+INFO:root:Moneky 3: inspect an item with a worry level of 107
+INFO:root:Moneky 3: apply operation (107 + 3) // 3
+INFO:root:Moneky 3: worry level is not divisible by 17
+INFO:root:Moneky 3: Item with worry level 36 thrown to Monkey 1
+INFO:root:Moneky 3: inspect an item with a worry level of 215
+INFO:root:Moneky 3: apply operation (215 + 3) // 3
+INFO:root:Moneky 3: worry level is not divisible by 17
+INFO:root:Moneky 3: Item with worry level 72 thrown to Monkey 1
+INFO:root:Round 20
+INFO:root:Moneky 0: inspect an item with a worry level of 116
+INFO:root:Moneky 0: apply operation (116 * 19) // 3
+INFO:root:Moneky 0: worry level is not divisible by 23
+INFO:root:Moneky 0: Item with worry level 734 thrown to Monkey 3
+INFO:root:Moneky 0: inspect an item with a worry level of 44
+INFO:root:Moneky 0: apply operation (44 * 19) // 3
+INFO:root:Moneky 0: worry level is not divisible by 23
+INFO:root:Moneky 0: Item with worry level 278 thrown to Monkey 3
+INFO:root:Moneky 0: inspect an item with a worry level of 25
+INFO:root:Moneky 0: apply operation (25 * 19) // 3
+INFO:root:Moneky 0: worry level is not divisible by 23
+INFO:root:Moneky 0: Item with worry level 158 thrown to Monkey 3
+INFO:root:Moneky 0: inspect an item with a worry level of 94
+INFO:root:Moneky 0: apply operation (94 * 19) // 3
+INFO:root:Moneky 0: worry level is not divisible by 23
+INFO:root:Moneky 0: Item with worry level 595 thrown to Monkey 3
+INFO:root:Moneky 0: inspect an item with a worry level of 16
+INFO:root:Moneky 0: apply operation (16 * 19) // 3
+INFO:root:Moneky 0: worry level is not divisible by 23
+INFO:root:Moneky 0: Item with worry level 101 thrown to Monkey 3
+INFO:root:Moneky 0: inspect an item with a worry level of 54
+INFO:root:Moneky 0: apply operation (54 * 19) // 3
+INFO:root:Moneky 0: worry level is not divisible by 23
+INFO:root:Moneky 0: Item with worry level 342 thrown to Monkey 3
+INFO:root:Moneky 1: inspect an item with a worry level of 26
+INFO:root:Moneky 1: apply operation (26 + 6) // 3
+INFO:root:Moneky 1: worry level is not divisible by 19
+INFO:root:Moneky 1: Item with worry level 10 thrown to Monkey 0
+INFO:root:Moneky 1: inspect an item with a worry level of 30
+INFO:root:Moneky 1: apply operation (30 + 6) // 3
+INFO:root:Moneky 1: worry level is not divisible by 19
+INFO:root:Moneky 1: Item with worry level 12 thrown to Monkey 0
+INFO:root:Moneky 1: inspect an item with a worry level of 36
+INFO:root:Moneky 1: apply operation (36 + 6) // 3
+INFO:root:Moneky 1: worry level is not divisible by 19
+INFO:root:Moneky 1: Item with worry level 14 thrown to Monkey 0
+INFO:root:Moneky 1: inspect an item with a worry level of 72
+INFO:root:Moneky 1: apply operation (72 + 6) // 3
+INFO:root:Moneky 1: worry level is not divisible by 19
+INFO:root:Moneky 1: Item with worry level 26 thrown to Monkey 0
+INFO:root:Moneky 3: inspect an item with a worry level of 734
+INFO:root:Moneky 3: apply operation (734 + 3) // 3
+INFO:root:Moneky 3: worry level is not divisible by 17
+INFO:root:Moneky 3: Item with worry level 245 thrown to Monkey 1
+INFO:root:Moneky 3: inspect an item with a worry level of 278
+INFO:root:Moneky 3: apply operation (278 + 3) // 3
+INFO:root:Moneky 3: worry level is not divisible by 17
+INFO:root:Moneky 3: Item with worry level 93 thrown to Monkey 1
+INFO:root:Moneky 3: inspect an item with a worry level of 158
+INFO:root:Moneky 3: apply operation (158 + 3) // 3
+INFO:root:Moneky 3: worry level is not divisible by 17
+INFO:root:Moneky 3: Item with worry level 53 thrown to Monkey 1
+INFO:root:Moneky 3: inspect an item with a worry level of 595
+INFO:root:Moneky 3: apply operation (595 + 3) // 3
+INFO:root:Moneky 3: worry level is not divisible by 17
+INFO:root:Moneky 3: Item with worry level 199 thrown to Monkey 1
+INFO:root:Moneky 3: inspect an item with a worry level of 101
+INFO:root:Moneky 3: apply operation (101 + 3) // 3
+INFO:root:Moneky 3: worry level is divisible by 17
+INFO:root:Moneky 3: Item with worry level 34 thrown to Monkey 0
+INFO:root:Moneky 3: inspect an item with a worry level of 342
+INFO:root:Moneky 3: apply operation (342 + 3) // 3
+INFO:root:Moneky 3: worry level is not divisible by 17
+INFO:root:Moneky 3: Item with worry level 115 thrown to Monkey 1
