@@ -2,10 +2,10 @@
     https://adventofcode.com/2023/day/#
 
 ```sh
-pst > input.txt
-pst > example1.txt
+pst > data/input.txt
+pst > data/test_1.txt
 cp part1.py part2.py
-pst > example2.txt
+pst > test_2.txt
 ```
 
 ```sh
