@@ -17,10 +17,7 @@ def main():
 
         score = 0
         for _ in matches:
-            if score:
-                score *= 2
-            else:
-                score = 1
+            score = score * 2 if score else 1
 
         total += score
 
