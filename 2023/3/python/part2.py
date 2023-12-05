@@ -2,13 +2,15 @@
 # Advent of Code 2022 Day 3
 # https://adventofcode.com/2022/day/3
 
+from math import prod
+
 with open('../data/input.txt', 'r') as f:
     lines = f.readlines()
-    # lines = data.split('\n')
 
 
 def process_text(lines):
     nums = {}
+    stars = []
 
     for row, line in enumerate(lines):
         num, start = '', 0
@@ -21,35 +23,33 @@ def process_text(lines):
                 if num:
                     nums[(row, start, i)] = int(num)
                     num, start = '', 0
+                if char == '*':
+                    stars.append((row, i))
 
-    return nums
+    return nums, stars
 
 
 def main():
     sum = 0
-    nums = process_text(lines)
+    nums, stars = process_text(lines)
 
     w = len(lines[0])
     l = len(lines)
 
-    for key, num in nums.items():
-        row, x, y = key
-
-        rx, ry = row - 1, row + 2
-        cx, cy = x - 1, y + 1
-
-        rx = 0 if rx < 0 else rx
-        ry = w if ry > w else ry
+    for s_row, x in stars:
+        cx, cy = x - 1, x + 2
         cx = 0 if cx < 0 else cx
-        cy = l if cy > l else cy
+        cy = w if cy > w else cy
 
-        found = False
-        text = ''.join([l[cx:cy] for l in lines[rx:ry]]).replace('.', '')
+        adj = []
+        for n in nums:
+            n_row, i, j = n
+            if n_row > s_row + 1 or n_row < s_row - 1: continue
+            if set(range(i, j)).intersection(range(cx, cy)):
+                adj.append(n)
 
-        for char in text:
-            if not char.isdigit():
-                sum += num
-                break
+        if len(adj) == 2:
+            sum += prod([nums[key] for key in adj])
 
     print(sum)
 
