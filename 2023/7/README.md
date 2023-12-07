@@ -2,7 +2,7 @@
     https://adventofcode.com/2023/day/7
 
 ```sh
-echo '' > ../data/input.txt
+pst > ../data/input.txt
 pst > ../data/test_1.txt
 cp part1.py part2.py
 pst > ../data/test_2.txt
